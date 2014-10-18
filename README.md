@@ -1,12 +1,12 @@
 Description
 ===========
 
-Installs and configures redo - a system for building target files from source files, see the [[upstream],http://homepage.ntlworld.com/jonathan.deboynepollard/Softwares/redo.html] website for more details.
+Installs and configures redo - a system for building target files from source files, see the [upstream](http://homepage.ntlworld.com/jonathan.deboynepollard/Softwares/redo.html) website for more details.
 
 Requirements
 ============
 
-A c++ compiler such as G++ or clang++.
+A C++ compiler such as G++ or clang++.
 
 Platform
 --------
